@@ -86,7 +86,7 @@ class FlashCardCategory extends StatelessWidget {
       margin: const EdgeInsets.only(bottom: 16),
       padding: const EdgeInsets.all(16),
       decoration: BoxDecoration(
-        color: Color(0xFFF90CD),
+        color:   Color(0xFFF90CD),
         borderRadius: BorderRadius.circular(16),
       ),
       child: Column(
